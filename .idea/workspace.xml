@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa1bb925-6aa2-4d45-b3b2-c83c4e0ddfe0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d9LzKTtOiXwGK7VKyJ4Gyhbbxg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.MedicalReport.App" />
+      <module name="Covid19MedicalReportGeneration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.MedicalReport.Model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa1bb925-6aa2-4d45-b3b2-c83c4e0ddfe0" name="Default Changelist" comment="" />
+      <created>1591832623138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591832623138</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1591842877575">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591842877575" />
+    <state x="494" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591845544367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="494" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591845544367" />
+    <state width="1877" height="269" key="GridCell.Tab.0.bottom" timestamp="1592529731617">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="132" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591909721081" />
+    <state width="1877" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592529731617" />
+    <state width="1877" height="269" key="GridCell.Tab.0.center" timestamp="1592529731615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="132" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591909721080" />
+    <state width="1877" height="269" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592529731615" />
+    <state width="1877" height="269" key="GridCell.Tab.0.left" timestamp="1592529731615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="132" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591909721080" />
+    <state width="1877" height="269" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592529731615" />
+    <state width="1877" height="269" key="GridCell.Tab.0.right" timestamp="1592529731616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="132" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591909721080" />
+    <state width="1877" height="269" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592529731616" />
+    <state width="1877" height="269" key="GridCell.Tab.1.bottom" timestamp="1592529731623">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="132" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591909721081" />
+    <state width="1877" height="269" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592529731623" />
+    <state width="1877" height="269" key="GridCell.Tab.1.center" timestamp="1592529731620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="132" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591909721081" />
+    <state width="1877" height="269" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592529731620" />
+    <state width="1877" height="269" key="GridCell.Tab.1.left" timestamp="1592529731618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="132" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591909721081" />
+    <state width="1877" height="269" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592529731618" />
+    <state width="1877" height="269" key="GridCell.Tab.1.right" timestamp="1592529731622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="132" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591909721081" />
+    <state width="1877" height="269" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592529731622" />
+    <state x="1111" y="236" width="737" height="663" key="GridCell.Tab.2.bottom" timestamp="1592453088162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="737" height="663" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591909721082" />
+    <state x="1111" y="236" width="737" height="663" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592453088162" />
+    <state x="1111" y="236" width="737" height="663" key="GridCell.Tab.2.center" timestamp="1592453088161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="737" height="663" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591909721082" />
+    <state x="1111" y="236" width="737" height="663" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592453088161" />
+    <state x="1111" y="236" width="737" height="663" key="GridCell.Tab.2.left" timestamp="1592453088161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="737" height="663" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591909721081" />
+    <state x="1111" y="236" width="737" height="663" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592453088161" />
+    <state x="1111" y="236" width="737" height="663" key="GridCell.Tab.2.right" timestamp="1592453088161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="737" height="663" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591909721082" />
+    <state x="1111" y="236" width="737" height="663" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592453088161" />
+    <state x="1111" y="236" width="737" height="663" key="GridCell.Tab.3.bottom" timestamp="1592453088133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="737" height="663" key="GridCell.Tab.3.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591909721034" />
+    <state x="1111" y="236" width="737" height="663" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592453088133" />
+    <state x="1111" y="236" width="737" height="663" key="GridCell.Tab.3.center" timestamp="1592453088133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="737" height="663" key="GridCell.Tab.3.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591909721034" />
+    <state x="1111" y="236" width="737" height="663" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592453088133" />
+    <state x="1111" y="236" width="737" height="663" key="GridCell.Tab.3.left" timestamp="1592453088133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="737" height="663" key="GridCell.Tab.3.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591909721034" />
+    <state x="1111" y="236" width="737" height="663" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592453088133" />
+    <state x="1111" y="236" width="737" height="663" key="GridCell.Tab.3.right" timestamp="1592453088133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="737" height="663" key="GridCell.Tab.3.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591909721034" />
+    <state x="1111" y="236" width="737" height="663" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592453088133" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1592779004428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592779004428" />
+    <state x="1111" y="236" width="753" height="730" key="dock-window-1" timestamp="1592449513543">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1460" y="182" width="404" height="784" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591835464358" />
+    <state x="1111" y="236" width="753" height="730" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1592449513543" />
+    <state x="1111" y="236" width="753" height="730" key="dock-window-2" timestamp="1592452801457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1460" y="182" width="404" height="784" key="dock-window-2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591835656431" />
+    <state x="1111" y="236" width="753" height="730" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1592452801457" />
+    <state x="1094" y="182" width="770" height="784" key="dock-window-3" timestamp="1591837280044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1094" y="182" width="770" height="784" key="dock-window-3/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591837280044" />
+    <state x="1094" y="182" width="770" height="784" key="dock-window-4" timestamp="1591837610087">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1094" y="182" width="770" height="784" key="dock-window-4/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591837610087" />
+    <state x="1329" y="683" width="535" height="283" key="dock-window-5" timestamp="1591838127133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1329" y="683" width="535" height="283" key="dock-window-5/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591838127133" />
+    <state x="1111" y="236" width="753" height="730" key="dock-window-6" timestamp="1591849590737">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1329" y="683" width="535" height="283" key="dock-window-6/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591845620310" />
+    <state x="1111" y="236" width="753" height="730" key="dock-window-6/0.0.1920.1040@0.0.1920.1040" timestamp="1591849590737" />
+    <state x="342" y="222" key="new project wizard" timestamp="1591833048766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="222" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591833048766" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1591843718546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591843718546" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/MedicalReport/App.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/MedicalReport/App.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/MedicalReport/WordExtraction/WordTable.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/MedicalReport/WordExtraction/WordTable.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/MedicalReport/WordExtraction/WordTable.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/MedicalReport/WordExtraction/WordTable.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/MedicalReport/WordExtraction/WordTable.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/MedicalReport/WordExtraction/WordTable.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/MedicalReport/WordExtraction/WordTable.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
